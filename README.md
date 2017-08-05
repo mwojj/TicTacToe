@@ -1,5 +1,5 @@
 # tictactoe
-first project in java which is not completed yet.
+first completed project in java
 
-To add:
-method hasWinner() isnt work as predicted, it does not end the game after one player's win
+TicTacToe - everyone knows this game, nothing special to add
+used: Java, Swing framework
